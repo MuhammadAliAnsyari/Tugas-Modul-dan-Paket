@@ -1,0 +1,13 @@
+import balok
+
+vol_balok = balok.volume(5,4,3)
+print('volume balok',vol_balok)
+
+vol_tabung = tabung.hitung_volume(5,10)
+print('volume tabung',vol_tabung)
+
+luas_tabung = tabung.hitung_luas_permukaan(5,10)
+print('luas tabung',luas_tabung)
+
+luas_lingkaran = htg_luas_lingkaran(5)
+print('luas lingkaran', luas_lingkaran)
